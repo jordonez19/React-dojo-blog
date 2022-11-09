@@ -1,0 +1,32 @@
+{
+    "blogs": [
+        {
+            "title": "My new website",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae amet, asperiores commodi odio quas illum numquam! Voluptatem magni cupiditate sit pariatur nulla perspiciatis harum maiores, ratione ea recusandae reprehenderit aut consequuntur dolorum, omnis eos minima blanditiis debitis cum! Eveniet magnam quae earum aspernatur? Iste, saepe voluptatibus voluptate quisquam repellendus eligendi reprehenderit corporis veritatis, quas voluptates temporibus praesentium, ipsam unde ex ipsa eos quae? Esse odio, placeat quia accusantium fugit pariatur!",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Welcome party!",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae amet, asperiores commodi odio quas illum numquam! Voluptatem magni cupiditate sit pariatur nulla perspiciatis harum maiores, ratione ea recusandae reprehenderit aut consequuntur dolorum, omnis eos minima blanditiis debitis cum! Eveniet magnam quae earum aspernatur? Iste, saepe voluptatibus voluptate quisquam repellendus eligendi reprehenderit corporis veritatis, quas voluptates temporibus praesentium, ipsam unde ex ipsa eos quae? Esse odio, placeat quia accusantium fugit pariatur!",
+            "author": "yoshi",
+            "id": 2
+        },
+        {
+            "title": "Web dev top tips",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae amet, asperiores commodi odio quas illum numquam! Voluptatem magni cupiditate sit pariatur nulla perspiciatis harum maiores, ratione ea recusandae reprehenderit aut consequuntur dolorum, omnis eos minima blanditiis debitis cum! Eveniet magnam quae earum aspernatur? Iste, saepe voluptatibus voluptate quisquam repellendus eligendi reprehenderit corporis veritatis, quas voluptates temporibus praesentium, ipsam unde ex ipsa eos quae? Esse odio, placeat quia accusantium fugit pariatur!",
+            "author": "mario",
+            "id": 3
+        }
+    ],
+    "nombres": [
+        {
+            "nombre": "xavi",
+            "age": 27
+        },
+        {
+            "nombre": "mia",
+            "age": 2
+        }
+    ]
+}
